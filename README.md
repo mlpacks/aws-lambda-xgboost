@@ -1,6 +1,6 @@
 # AWS Lambda with XGBoost, Scikit-learn, Pandas and Numpy
 
-A demonstration project and template to deploy a AWS Lambda Function with XGBoost, Scikit-learn, Pandas, Numpy and SciPy based on the layers provided by [AWSLambdas.com](https://www.awslambdas.com).
+A demonstration project and template to deploy a AWS Lambda Function with XGBoost, Scikit-learn, Pandas, Numpy and SciPy based on the layers provided by [MLPacks.com](https://www.mlpacks.com).
 
 XGBoost is an optimized gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way.   
 
@@ -12,7 +12,7 @@ and the [AWS Serverless Application Model (SAM)](https://docs.aws.amazon.com/ser
 
 # Get a copy
 ```
-git clone https://github.com/AwsLambdas/aws-lambda-xgboost.git
+git clone https://github.com/mlpacks/aws-lambda-xgboost.git
 ```
 
 # Guide
@@ -23,7 +23,7 @@ git clone https://github.com/AwsLambdas/aws-lambda-xgboost.git
 
 # <a name="one" id="one"></a>How to create a XGBoost layer from AWS Lambdas GUI
 
-Our XGBoost's layer, which includes Scikit-learn, Pandas, Numpy and SciPy as well, is available for purchasing in [AWSLambdas.com](https://www.awslambdas.com/layers/4/aws-lambda-scikit-learn-xgboost-numpy-scipy-python38-layer).
+Our XGBoost's layer, which includes Scikit-learn, Pandas, Numpy and SciPy as well, is available for purchasing in [MLPacks.com](https://www.mlpacks.com/layers/4/aws-lambda-scikit-learn-xgboost-numpy-scipy-python38-layer).
 
 ![Place your Order to downlad or deploy the layer directly to AWS](img/buy-layer.png)
 
@@ -37,7 +37,7 @@ Click the button "Create Layer", and your layer will be created in a few seconds
 
 # <a name="two" id="two"></a>How to create a XGBoost layer from a zip file
 
-Our XGBoost's layer, which includes Scikit-learn, Pandas, Numpy and SciPy as well, is available for purchasing in [AWSLambdas.com](https://www.awslambdas.com/layers/4/aws-lambda-scikit-learn-xgboost-numpy-scipy-python38-layer).
+Our XGBoost's layer, which includes Scikit-learn, Pandas, Numpy and SciPy as well, is available for purchasing in [MLPacks.com](https://www.mlpacks.com/layers/4/aws-lambda-scikit-learn-xgboost-numpy-scipy-python38-layer).
 
 Right after the payment, you will be able to click the "Download" button. Then, copy the zip file to your project clone's root directory.
 
